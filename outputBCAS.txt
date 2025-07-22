@@ -1,0 +1,104 @@
+Thread 1 requests to enter CS1 at 19.46hr
+Thread 1 enters CS1 at 19.46hr
+Thread 1 grabs row 1 at 19.46hr
+Thread 1 completes checking of row 1 at 19.46hr and finds it invalid.
+Thread 1 grabs row 2 at 19.46hr
+Thread 1 completes checking of row 2 at 19.46hr and finds it invalid.
+Thread 1 grabs row 3 at 19.46hr
+Thread 1 completes checking of row 3 at 19.46hr and finds it invalid.
+Thread 1 grabs row 4 at 19.46hr
+Thread 1 completes checking of row 4 at 19.46hr and finds it invalid.
+Thread 1 grabs row 5 at 19.46hr
+Thread 1 completes checking of row 5 at 19.46hr and finds it invalid.
+Thread 1 grabs row 6 at 19.46hr
+Thread 1 completes checking of row 6 at 19.46hr and finds it invalid.
+Thread 1 grabs row 7 at 19.46hr
+Thread 1 completes checking of row 7 at 19.46hr and finds it invalid.
+Thread 1 grabs row 8 at 19.46hr
+Thread 1 completes checking of row 8 at 19.46hr and finds it invalid.
+Thread 1 grabs row 9 at 19.46hr
+Thread 1 completes checking of row 9 at 19.46hr and finds it invalid.
+Thread 1 grabs row 10 at 19.46hr
+Thread 1 completes checking of row 10 at 19.46hr and finds it invalid.
+Thread 1 grabs row 11 at 19.46hr
+Thread 1 completes checking of row 11 at 19.46hr and finds it invalid.
+Thread 1 grabs row 12 at 19.46hr
+Thread 1 completes checking of row 12 at 19.46hr and finds it invalid.
+Thread 1 grabs row 13 at 19.46hr
+Thread 1 completes checking of row 13 at 19.46hr and finds it invalid.
+Thread 1 grabs row 14 at 19.46hr
+Thread 1 completes checking of row 14 at 19.46hr and finds it invalid.
+Thread 1 grabs row 15 at 19.46hr
+Thread 1 completes checking of row 15 at 19.46hr and finds it invalid.
+Thread 1 grabs row 16 at 19.46hr
+Thread 1 completes checking of row 16 at 19.46hr and finds it invalid.
+Thread 1 grabs row 17 at 19.46hr
+Thread 2 requests to enter CS1 at Thread 1 completes checking of row 17 at 19.46hr and finds it invalid.
+Thread 1 grabs row 18 at 19.46hr
+Thread 1 completes checking of row 18 at 19.46hr and finds it invalid.
+Thread 1 grabs row 19 at 19.46hr
+Thread 1 completes checking of row 19 at 19.46hr and finds it invalid.
+Thread 1 grabs row 20 at 19.46hr
+Thread 1 completes checking of row 20 at 19.46hr and finds it invalid.
+Thread 1 grabs row 21 at 19.46hr
+Thread 1 completes checking of row 21 at 19.46hr and finds it invalid.
+Thread 1 grabs row 22 at 19.46hr
+Thread 1 completes checking of row 22 at 19.46hr and finds it invalid.
+Thread 1 grabs row 23 at 19.46hr
+Thread 1 completes checking of row 23 at 19.46hr and finds it invalid.
+Thread 1 grabs row 24 at 19.46hr
+Thread 1 completes checking of row 24 at 19.46hr and finds it invalid.
+Thread 1 grabs row 25 at 19.46hr
+Thread 1 completes checking of row 25 at 19.46hr and finds it invalid.
+Thread 1 grabs row 26 at 19.46hr
+Thread 1 completes checking of row 26 at 19.46hr and finds it invalid.
+Thread 1 grabs row 27 at 19.46hr
+Thread 1 completes checking of row 27 at 19.46hr and finds it invalid.
+Thread 1 grabs row 28 at 19.46hr
+Thread 1 completes checking of row 28 at 19.46hr and finds it invalid.
+Thread 1 grabs row 29 at 19.46hr
+Thread 1 completes checking of row 29 at 19.46hr and finds it invalid.
+Thread 1 grabs row 30 at 19.46hr
+Thread 1 completes checking of row 30 at 19.46hr and finds it invalid.
+Thread 1 grabs row 31 at 19.46hr
+Thread 1 completes checking of row 31 at 19.46hr and finds it invalid.
+Thread 1 grabs row 32 at 19.46hr
+Thread 1 completes checking of row 32 at 19.46hr and finds it invalid.
+Thread 1 grabs row 33 at 19.46hr
+Thread 1 completes checking of row 33 at 19.46hr and finds it invalid.
+Thread 1 grabs row 34 at 19.46hr
+Thread 1 completes checking of row 34 at 19.46hr and finds it invalid.
+Thread 1 grabs row 35 at 19.46hr
+Thread 1 completes checking of row 35 at 19.46hr and finds it invalid.
+Thread 1 grabs row 36 at 19.46hr
+Thread 1 completes checking of row 36 at 19.46hr and finds it invalid.
+Thread 1 grabs row 37 at Thread 19.46hr
+3 requests to enter CS1 at Thread 1 completes checking of row 37 at 19.46hr and finds it invalid.
+Thread 1 grabs row 38 at 19.46hr
+Thread 1 comple
+38 at 19.46hr and finds it invalid.
+Thread 1 grabs row 39 at 19.46hr
+Thread 1 completes checking of row 39 at 19.46hr and finds it invalid.
+Thread 1 grabs row 40 at 19.46hr
+Thread 1 completes checking of row 40 at 19.46hr and finds it invalid.
+Thread 1 grabs row 41 at 19.46hr
+Thread 1 completes checking of row 41 at 19.46hr and finds it invalid.
+Thread 1 grabs row 42 at 19.46hr
+Thread 1 completes checking of row 42 at 19.46hr and finds it invalid.
+Thread 1 grabs row 43 at 19.46hr
+Thread 1 completes checking of row 43 at 19.46hr and finds it invalid.
+Thread 1 grabs row 44 at 19.46hr
+Thread 1 completes checking of row 44 at 19.46hr and finds it invalid.
+Thread 1 grabs row 45 at 19.46hr
+Thread 1 completes checking of row 45 at 19.46hr and finds it invalid.
+Thread 1 leaves CS1 at 19.46hr
+Thread 2 enters CS1 at 19.46hr
+Thread 1 requests to enter CS1 at 19.46hr
+Thread 3 enters CS1 at 19.46hr
+Thread 1 enters CS1 at 19.46hr
+Sudoku is invalid.
+The total time taken is 2575 microseconds.
+Average time taken by a thread to enter the CS is 1321.5 microseconds
+Average time taken by a thread to exit the CS is 296 microseconds
+Worst-case time taken by a thread to enter the CS is 1859 microseconds
+Worst-case time taken by a thread to exit the CS is 296 microseconds

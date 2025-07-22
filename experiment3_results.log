@@ -1,0 +1,25 @@
+Method, Threads, AvgTimeTaken (ms)
+TAS, 1, 77
+CAS, 1, 83
+BCAS, 1, 92
+SEQ, 1, 81
+TAS, 2, 77
+CAS, 2, 81
+BCAS, 2, 81
+SEQ, 2, 75
+TAS, 4, 74
+CAS, 4, 74
+BCAS, 4, 75
+SEQ, 4, 73
+TAS, 8, 74
+CAS, 8, 74
+BCAS, 8, 76
+SEQ, 8, 73
+TAS, 16, 72
+CAS, 16, 75
+BCAS, 16, 74
+SEQ, 16, 72
+TAS, 32, 73
+CAS, 32, 75
+BCAS, 32, 74
+SEQ, 32, 72

@@ -1,0 +1,21 @@
+Method, TaskInc, AvgTimeTaken (ms)
+TAS, 10, 74
+CAS, 10, 74
+BCAS, 10, 82
+SEQ, 10, 73
+TAS, 20, 73
+CAS, 20, 77
+BCAS, 20, 73
+SEQ, 20, 74
+TAS, 30, 73
+CAS, 30, 76
+BCAS, 30, 74
+SEQ, 30, 74
+TAS, 40, 72
+CAS, 40, 79
+BCAS, 40, 76
+SEQ, 40, 74
+TAS, 50, 73
+CAS, 50, 74
+BCAS, 50, 75
+SEQ, 50, 73

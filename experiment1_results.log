@@ -1,0 +1,377 @@
+Experiment 1 - Sudoku Validation
+=================================
+Sudoku sizes: 20 30 40 50 60 70 80 90 100
+Programs: Assgn2SrcTAS-co23btech11012.exe Assgn2SrcCAS-co23btech11012.exe Assgn2SrcBCAS-co23btech11012.exe
+
+Running SEQ program first...
+SEQ execution completed.
+
+Running experiments for Sudoku size: 20
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 20
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20: 190 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20: 78 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20: 84 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20: 78 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20: 107 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20: 107 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 20:
+The total time taken is 3685 microseconds.
+Average time taken by a thread to enter the CS is 131 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 662 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 20
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20: 159 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20: 75 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20: 76 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20: 80 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20: 88 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20: 95 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 20:
+The total time taken is 4314 microseconds.
+Average time taken by a thread to enter the CS is 1752 microseconds
+Average time taken by a thread to exit the CS is 23 microseconds
+Worst-case time taken by a thread to enter the CS is 35059 microseconds
+Worst-case time taken by a thread to exit the CS is 464 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 20
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20: 240 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20: 78 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20: 140 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20: 120 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20: 153 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20: 146 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 30
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 30
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30: 78 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30: 82 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30: 80 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30: 75 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30: 80 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30: 79 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 30:
+The total time taken is 3400 microseconds.
+Average time taken by a thread to enter the CS is 27 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 154 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 30
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30: 76 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30: 77 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30: 77 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30: 83 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30: 77 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30: 78 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 30:
+The total time taken is 4896 microseconds.
+Average time taken by a thread to enter the CS is 1547 microseconds
+Average time taken by a thread to exit the CS is 17 microseconds
+Worst-case time taken by a thread to enter the CS is 46436 microseconds
+Worst-case time taken by a thread to exit the CS is 533 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 30
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30: 184 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30: 76 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30: 188 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30: 152 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30: 267 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30: 173 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 40
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 40
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40: 79 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40: 77 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40: 89 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40: 76 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40: 84 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40: 81 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 40:
+The total time taken is 5244 microseconds.
+Average time taken by a thread to enter the CS is 11 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 230 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 40
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40: 77 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40: 78 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40: 79 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40: 78 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40: 76 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40: 77 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 40:
+The total time taken is 6098 microseconds.
+Average time taken by a thread to enter the CS is 1684 microseconds
+Average time taken by a thread to exit the CS is 16 microseconds
+Worst-case time taken by a thread to enter the CS is 67386 microseconds
+Worst-case time taken by a thread to exit the CS is 645 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 40
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40: 193 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40: 77 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40: 130 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40: 126 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40: 310 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40: 167 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 50
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 50
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50: 98 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50: 81 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50: 87 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50: 84 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50: 84 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50: 86 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 50:
+The total time taken is 7057 microseconds.
+Average time taken by a thread to enter the CS is 53 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 504 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 50
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50: 86 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50: 90 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50: 84 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50: 78 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50: 78 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50: 83 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 50:
+The total time taken is 8461 microseconds.
+Average time taken by a thread to enter the CS is 2922 microseconds
+Average time taken by a thread to exit the CS is 106 microseconds
+Worst-case time taken by a thread to enter the CS is 146108 microseconds
+Worst-case time taken by a thread to exit the CS is 5310 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 50
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50: 157 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50: 163 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50: 193 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50: 217 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50: 128 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50: 171 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 60
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 60
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60: 83 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60: 86 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60: 81 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60: 87 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60: 81 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60: 83 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 60:
+The total time taken is 7669 microseconds.
+Average time taken by a thread to enter the CS is 8 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 102 microseconds
+Worst-case time taken by a thread to exit the CS is 2 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 60
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60: 84 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60: 94 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60: 82 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60: 82 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60: 84 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60: 85 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 60:
+The total time taken is 12170 microseconds.
+Average time taken by a thread to enter the CS is 5785 microseconds
+Average time taken by a thread to exit the CS is 136 microseconds
+Worst-case time taken by a thread to enter the CS is 347158 microseconds
+Worst-case time taken by a thread to exit the CS is 8213 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 60
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60: 239 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60: 160 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60: 287 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60: 113 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60: 114 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60: 182 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 70
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 70
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70: 88 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70: 83 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70: 90 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70: 86 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70: 85 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70: 86 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 70:
+The total time taken is 8519 microseconds.
+Average time taken by a thread to enter the CS is 9 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 194 microseconds
+Worst-case time taken by a thread to exit the CS is 2 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 70
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70: 82 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70: 86 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70: 83 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70: 86 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70: 82 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70: 83 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 70:
+The total time taken is 11509 microseconds.
+Average time taken by a thread to enter the CS is 3972 microseconds
+Average time taken by a thread to exit the CS is 101 microseconds
+Worst-case time taken by a thread to enter the CS is 278082 microseconds
+Worst-case time taken by a thread to exit the CS is 7086 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 70
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70: 191 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70: 123 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70: 139 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70: 279 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70: 196 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70: 185 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 80
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 80
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80: 90 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80: 83 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80: 90 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80: 84 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80: 85 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80: 86 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 80:
+The total time taken is 10520 microseconds.
+Average time taken by a thread to enter the CS is 81 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 1162 microseconds
+Worst-case time taken by a thread to exit the CS is 2 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 80
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80: 89 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80: 84 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80: 84 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80: 88 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80: 84 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80: 85 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 80:
+The total time taken is 13046 microseconds.
+Average time taken by a thread to enter the CS is 3939 microseconds
+Average time taken by a thread to exit the CS is 112 microseconds
+Worst-case time taken by a thread to enter the CS is 315150 microseconds
+Worst-case time taken by a thread to exit the CS is 9024 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 80
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80: 125 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80: 164 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80: 182 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80: 80 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80: 162 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80: 142 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 90
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 90
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90: 101 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90: 86 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90: 100 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90: 85 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90: 87 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90: 91 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 90:
+The total time taken is 11715 microseconds.
+Average time taken by a thread to enter the CS is 9 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 130 microseconds
+Worst-case time taken by a thread to exit the CS is 2 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 90
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90: 85 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90: 88 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90: 88 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90: 112 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90: 87 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90: 92 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 90:
+The total time taken is 13326 microseconds.
+Average time taken by a thread to enter the CS is 3426 microseconds
+Average time taken by a thread to exit the CS is 69 microseconds
+Worst-case time taken by a thread to enter the CS is 308370 microseconds
+Worst-case time taken by a thread to exit the CS is 6270 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 90
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90: 228 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90: 174 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90: 250 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90: 174 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90: 161 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90: 197 ms
+
+Output file outputBCA.txt not found!
+Running experiments for Sudoku size: 100
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 100
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100: 93 ms
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100: 99 ms
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100: 87 ms
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100: 90 ms
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100: 95 ms
+Average time for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100: 92 ms
+
+Last 5 lines of outputTAS.txt for Sudoku size 100:
+The total time taken is 12911 microseconds.
+Average time taken by a thread to enter the CS is 6 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 111 microseconds
+Worst-case time taken by a thread to exit the CS is 2 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 100
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100: 92 ms
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100: 94 ms
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100: 84 ms
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100: 92 ms
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100: 91 ms
+Average time for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100: 90 ms
+
+Last 5 lines of outputCAS.txt for Sudoku size 100:
+The total time taken is 16540 microseconds.
+Average time taken by a thread to enter the CS is 5535 microseconds
+Average time taken by a thread to exit the CS is 132 microseconds
+Worst-case time taken by a thread to enter the CS is 553509 microseconds
+Worst-case time taken by a thread to exit the CS is 13269 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 100
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100: 383 ms
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100: 85 ms
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100: 150 ms
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100: 85 ms
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100: 150 ms
+Average time for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100: 170 ms
+
+Output file outputBCA.txt not found!

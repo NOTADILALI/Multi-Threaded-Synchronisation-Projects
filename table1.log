@@ -1,0 +1,1130 @@
+Experiment 1 - Sudoku Validation
+=================================
+Sudoku sizes: 20 30 40 50 60 70 80 90 100
+Programs: Assgn2SrcTAS-co23btech11012.exe Assgn2SrcCAS-co23btech11012.exe Assgn2SrcBCAS-co23btech11012.exe
+
+Running experiments for Sudoku size: 20
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 20
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 979 microseconds.
+Average time taken by a thread to enter the CS is 31 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 101 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1176 microseconds.
+Average time taken by a thread to enter the CS is 3 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 26 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1247 microseconds.
+Average time taken by a thread to enter the CS is 208 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 374 microseconds
+Worst-case time taken by a thread to exit the CS is 1 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1072 microseconds.
+Average time taken by a thread to enter the CS is 11 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 46 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1097 microseconds.
+Average time taken by a thread to enter the CS is 54 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 127 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 20
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3206 microseconds.
+Average time taken by a thread to enter the CS is 1874 microseconds
+Average time taken by a thread to exit the CS is 13 microseconds
+Worst-case time taken by a thread to enter the CS is 14993 microseconds
+Worst-case time taken by a thread to exit the CS is 109 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3063 microseconds.
+Average time taken by a thread to enter the CS is 1851 microseconds
+Average time taken by a thread to exit the CS is 17 microseconds
+Worst-case time taken by a thread to enter the CS is 14808 microseconds
+Worst-case time taken by a thread to exit the CS is 141 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2927 microseconds.
+Average time taken by a thread to enter the CS is 2018 microseconds
+Average time taken by a thread to exit the CS is 14 microseconds
+Worst-case time taken by a thread to enter the CS is 16149 microseconds
+Worst-case time taken by a thread to exit the CS is 112 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3018 microseconds.
+Average time taken by a thread to enter the CS is 1724 microseconds
+Average time taken by a thread to exit the CS is 16 microseconds
+Worst-case time taken by a thread to enter the CS is 13798 microseconds
+Worst-case time taken by a thread to exit the CS is 129 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2716 microseconds.
+Average time taken by a thread to enter the CS is 1623 microseconds
+Average time taken by a thread to exit the CS is 24 microseconds
+Worst-case time taken by a thread to enter the CS is 12991 microseconds
+Worst-case time taken by a thread to exit the CS is 198 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 20
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 5875 microseconds.
+Average time taken by a thread to enter the CS is 3774.22 microseconds
+Average time taken by a thread to exit the CS is 78 microseconds
+Worst-case time taken by a thread to enter the CS is 4805 microseconds
+Worst-case time taken by a thread to exit the CS is 78 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2913 microseconds.
+Average time taken by a thread to enter the CS is 1534.33 microseconds
+Average time taken by a thread to exit the CS is 69 microseconds
+Worst-case time taken by a thread to enter the CS is 1974 microseconds
+Worst-case time taken by a thread to exit the CS is 69 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2070 microseconds.
+Average time taken by a thread to enter the CS is 905.333 microseconds
+Average time taken by a thread to exit the CS is 55 microseconds
+Worst-case time taken by a thread to enter the CS is 1404 microseconds
+Worst-case time taken by a thread to exit the CS is 55 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 1983 microseconds.
+Average time taken by a thread to enter the CS is 855.556 microseconds
+Average time taken by a thread to exit the CS is 54 microseconds
+Worst-case time taken by a thread to enter the CS is 1263 microseconds
+Worst-case time taken by a thread to exit the CS is 54 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 20
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2999 microseconds.
+Average time taken by a thread to enter the CS is 1775.33 microseconds
+Average time taken by a thread to exit the CS is 62 microseconds
+Worst-case time taken by a thread to enter the CS is 2157 microseconds
+Worst-case time taken by a thread to exit the CS is 62 microseconds
+
+Running experiments for Sudoku size: 30
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 30
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1280 microseconds.
+Average time taken by a thread to enter the CS is 2 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 20 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1045 microseconds.
+Average time taken by a thread to enter the CS is 49 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 209 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1219 microseconds.
+Average time taken by a thread to enter the CS is 13 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 55 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1429 microseconds.
+Average time taken by a thread to enter the CS is 0 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 0 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1732 microseconds.
+Average time taken by a thread to enter the CS is 349 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 791 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 30
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3043 microseconds.
+Average time taken by a thread to enter the CS is 1828 microseconds
+Average time taken by a thread to exit the CS is 23 microseconds
+Worst-case time taken by a thread to enter the CS is 14626 microseconds
+Worst-case time taken by a thread to exit the CS is 191 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3925 microseconds.
+Average time taken by a thread to enter the CS is 2372 microseconds
+Average time taken by a thread to exit the CS is 26 microseconds
+Worst-case time taken by a thread to enter the CS is 18983 microseconds
+Worst-case time taken by a thread to exit the CS is 210 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2996 microseconds.
+Average time taken by a thread to enter the CS is 1980 microseconds
+Average time taken by a thread to exit the CS is 15 microseconds
+Worst-case time taken by a thread to enter the CS is 15846 microseconds
+Worst-case time taken by a thread to exit the CS is 121 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3299 microseconds.
+Average time taken by a thread to enter the CS is 2034 microseconds
+Average time taken by a thread to exit the CS is 24 microseconds
+Worst-case time taken by a thread to enter the CS is 16277 microseconds
+Worst-case time taken by a thread to exit the CS is 199 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3310 microseconds.
+Average time taken by a thread to enter the CS is 2016 microseconds
+Average time taken by a thread to exit the CS is 20 microseconds
+Worst-case time taken by a thread to enter the CS is 16131 microseconds
+Worst-case time taken by a thread to exit the CS is 165 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 30
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2574 microseconds.
+Average time taken by a thread to enter the CS is 1352.56 microseconds
+Average time taken by a thread to exit the CS is 70 microseconds
+Worst-case time taken by a thread to enter the CS is 1743 microseconds
+Worst-case time taken by a thread to exit the CS is 70 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2449 microseconds.
+Average time taken by a thread to enter the CS is 1392.33 microseconds
+Average time taken by a thread to exit the CS is 89 microseconds
+Worst-case time taken by a thread to enter the CS is 1773 microseconds
+Worst-case time taken by a thread to exit the CS is 89 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2505 microseconds.
+Average time taken by a thread to enter the CS is 1249.89 microseconds
+Average time taken by a thread to exit the CS is 67 microseconds
+Worst-case time taken by a thread to enter the CS is 1639 microseconds
+Worst-case time taken by a thread to exit the CS is 67 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 4026 microseconds.
+Average time taken by a thread to enter the CS is 2335 microseconds
+Average time taken by a thread to exit the CS is 80 microseconds
+Worst-case time taken by a thread to enter the CS is 3077 microseconds
+Worst-case time taken by a thread to exit the CS is 80 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 30
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2006 microseconds.
+Average time taken by a thread to enter the CS is 877 microseconds
+Average time taken by a thread to exit the CS is 55 microseconds
+Worst-case time taken by a thread to enter the CS is 1320 microseconds
+Worst-case time taken by a thread to exit the CS is 55 microseconds
+
+Running experiments for Sudoku size: 40
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 40
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1713 microseconds.
+Average time taken by a thread to enter the CS is 118 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 318 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1002 microseconds.
+Average time taken by a thread to enter the CS is 69 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 192 microseconds
+Worst-case time taken by a thread to exit the CS is 1 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1495 microseconds.
+Average time taken by a thread to enter the CS is 217 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 538 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1197 microseconds.
+Average time taken by a thread to enter the CS is 14 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 63 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1373 microseconds.
+Average time taken by a thread to enter the CS is 26 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 128 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 40
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2412 microseconds.
+Average time taken by a thread to enter the CS is 1408 microseconds
+Average time taken by a thread to exit the CS is 13 microseconds
+Worst-case time taken by a thread to enter the CS is 11265 microseconds
+Worst-case time taken by a thread to exit the CS is 104 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2792 microseconds.
+Average time taken by a thread to enter the CS is 1558 microseconds
+Average time taken by a thread to exit the CS is 17 microseconds
+Worst-case time taken by a thread to enter the CS is 12465 microseconds
+Worst-case time taken by a thread to exit the CS is 142 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2476 microseconds.
+Average time taken by a thread to enter the CS is 1346 microseconds
+Average time taken by a thread to exit the CS is 13 microseconds
+Worst-case time taken by a thread to enter the CS is 10771 microseconds
+Worst-case time taken by a thread to exit the CS is 110 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 5701 microseconds.
+Average time taken by a thread to enter the CS is 4775 microseconds
+Average time taken by a thread to exit the CS is 15 microseconds
+Worst-case time taken by a thread to enter the CS is 38203 microseconds
+Worst-case time taken by a thread to exit the CS is 121 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2727 microseconds.
+Average time taken by a thread to enter the CS is 1690 microseconds
+Average time taken by a thread to exit the CS is 13 microseconds
+Worst-case time taken by a thread to enter the CS is 13522 microseconds
+Worst-case time taken by a thread to exit the CS is 110 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 40
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 39802 microseconds.
+Average time taken by a thread to enter the CS is 30674.9 microseconds
+Average time taken by a thread to exit the CS is 88 microseconds
+Worst-case time taken by a thread to enter the CS is 38857 microseconds
+Worst-case time taken by a thread to exit the CS is 88 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2634 microseconds.
+Average time taken by a thread to enter the CS is 1363.78 microseconds
+Average time taken by a thread to exit the CS is 74 microseconds
+Worst-case time taken by a thread to enter the CS is 1782 microseconds
+Worst-case time taken by a thread to exit the CS is 74 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2429 microseconds.
+Average time taken by a thread to enter the CS is 1051.44 microseconds
+Average time taken by a thread to exit the CS is 76 microseconds
+Worst-case time taken by a thread to enter the CS is 1552 microseconds
+Worst-case time taken by a thread to exit the CS is 76 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2304 microseconds.
+Average time taken by a thread to enter the CS is 984.889 microseconds
+Average time taken by a thread to exit the CS is 54 microseconds
+Worst-case time taken by a thread to enter the CS is 1411 microseconds
+Worst-case time taken by a thread to exit the CS is 54 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 40
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2400 microseconds.
+Average time taken by a thread to enter the CS is 1213.33 microseconds
+Average time taken by a thread to exit the CS is 73 microseconds
+Worst-case time taken by a thread to enter the CS is 1582 microseconds
+Worst-case time taken by a thread to exit the CS is 73 microseconds
+
+Running experiments for Sudoku size: 50
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 50
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1318 microseconds.
+Average time taken by a thread to enter the CS is 180 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 560 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1594 microseconds.
+Average time taken by a thread to enter the CS is 76 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 259 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1189 microseconds.
+Average time taken by a thread to enter the CS is 17 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 60 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1147 microseconds.
+Average time taken by a thread to enter the CS is 0 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 5 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1216 microseconds.
+Average time taken by a thread to enter the CS is 26 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 142 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 50
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3704 microseconds.
+Average time taken by a thread to enter the CS is 2584 microseconds
+Average time taken by a thread to exit the CS is 18 microseconds
+Worst-case time taken by a thread to enter the CS is 20676 microseconds
+Worst-case time taken by a thread to exit the CS is 150 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2721 microseconds.
+Average time taken by a thread to enter the CS is 1681 microseconds
+Average time taken by a thread to exit the CS is 23 microseconds
+Worst-case time taken by a thread to enter the CS is 13448 microseconds
+Worst-case time taken by a thread to exit the CS is 191 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2668 microseconds.
+Average time taken by a thread to enter the CS is 1482 microseconds
+Average time taken by a thread to exit the CS is 22 microseconds
+Worst-case time taken by a thread to enter the CS is 11863 microseconds
+Worst-case time taken by a thread to exit the CS is 176 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3670 microseconds.
+Average time taken by a thread to enter the CS is 2480 microseconds
+Average time taken by a thread to exit the CS is 22 microseconds
+Worst-case time taken by a thread to enter the CS is 19840 microseconds
+Worst-case time taken by a thread to exit the CS is 183 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3465 microseconds.
+Average time taken by a thread to enter the CS is 2355 microseconds
+Average time taken by a thread to exit the CS is 23 microseconds
+Worst-case time taken by a thread to enter the CS is 18842 microseconds
+Worst-case time taken by a thread to exit the CS is 186 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 50
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2811 microseconds.
+Average time taken by a thread to enter the CS is 1646.67 microseconds
+Average time taken by a thread to exit the CS is 60 microseconds
+Worst-case time taken by a thread to enter the CS is 2035 microseconds
+Worst-case time taken by a thread to exit the CS is 60 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3176 microseconds.
+Average time taken by a thread to enter the CS is 1822.22 microseconds
+Average time taken by a thread to exit the CS is 122 microseconds
+Worst-case time taken by a thread to enter the CS is 2343 microseconds
+Worst-case time taken by a thread to exit the CS is 122 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 77559 microseconds.
+Average time taken by a thread to enter the CS is 46581.7 microseconds
+Average time taken by a thread to exit the CS is 41326 microseconds
+Worst-case time taken by a thread to enter the CS is 74331 microseconds
+Worst-case time taken by a thread to exit the CS is 41326 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 10304 microseconds.
+Average time taken by a thread to enter the CS is 8128.78 microseconds
+Average time taken by a thread to exit the CS is 133 microseconds
+Worst-case time taken by a thread to enter the CS is 9443 microseconds
+Worst-case time taken by a thread to exit the CS is 133 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 50
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3228 microseconds.
+Average time taken by a thread to enter the CS is 1697.56 microseconds
+Average time taken by a thread to exit the CS is 65 microseconds
+Worst-case time taken by a thread to enter the CS is 2229 microseconds
+Worst-case time taken by a thread to exit the CS is 65 microseconds
+
+Running experiments for Sudoku size: 60
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 60
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1064 microseconds.
+Average time taken by a thread to enter the CS is 56 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 137 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1273 microseconds.
+Average time taken by a thread to enter the CS is 80 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 196 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1581 microseconds.
+Average time taken by a thread to enter the CS is 188 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 372 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 930 microseconds.
+Average time taken by a thread to enter the CS is 96 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 152 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1234 microseconds.
+Average time taken by a thread to enter the CS is 132 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 349 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 60
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3566 microseconds.
+Average time taken by a thread to enter the CS is 2267 microseconds
+Average time taken by a thread to exit the CS is 14 microseconds
+Worst-case time taken by a thread to enter the CS is 18143 microseconds
+Worst-case time taken by a thread to exit the CS is 112 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2462 microseconds.
+Average time taken by a thread to enter the CS is 1336 microseconds
+Average time taken by a thread to exit the CS is 11 microseconds
+Worst-case time taken by a thread to enter the CS is 10691 microseconds
+Worst-case time taken by a thread to exit the CS is 91 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 7085 microseconds.
+Average time taken by a thread to enter the CS is 4085 microseconds
+Average time taken by a thread to exit the CS is 31 microseconds
+Worst-case time taken by a thread to enter the CS is 32685 microseconds
+Worst-case time taken by a thread to exit the CS is 252 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 4769 microseconds.
+Average time taken by a thread to enter the CS is 3590 microseconds
+Average time taken by a thread to exit the CS is 32 microseconds
+Worst-case time taken by a thread to enter the CS is 28721 microseconds
+Worst-case time taken by a thread to exit the CS is 256 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3783 microseconds.
+Average time taken by a thread to enter the CS is 2378 microseconds
+Average time taken by a thread to exit the CS is 28 microseconds
+Worst-case time taken by a thread to enter the CS is 19028 microseconds
+Worst-case time taken by a thread to exit the CS is 231 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 60
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 15143 microseconds.
+Average time taken by a thread to enter the CS is 11348.2 microseconds
+Average time taken by a thread to exit the CS is 200 microseconds
+Worst-case time taken by a thread to enter the CS is 14313 microseconds
+Worst-case time taken by a thread to exit the CS is 200 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2512 microseconds.
+Average time taken by a thread to enter the CS is 1315.33 microseconds
+Average time taken by a thread to exit the CS is 77 microseconds
+Worst-case time taken by a thread to enter the CS is 1673 microseconds
+Worst-case time taken by a thread to exit the CS is 77 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 4366 microseconds.
+Average time taken by a thread to enter the CS is 2246 microseconds
+Average time taken by a thread to exit the CS is 70 microseconds
+Worst-case time taken by a thread to enter the CS is 3013 microseconds
+Worst-case time taken by a thread to exit the CS is 70 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3336 microseconds.
+Average time taken by a thread to enter the CS is 1975 microseconds
+Average time taken by a thread to exit the CS is 71 microseconds
+Worst-case time taken by a thread to enter the CS is 2445 microseconds
+Worst-case time taken by a thread to exit the CS is 71 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 60
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2333 microseconds.
+Average time taken by a thread to enter the CS is 1098.56 microseconds
+Average time taken by a thread to exit the CS is 59 microseconds
+Worst-case time taken by a thread to enter the CS is 1557 microseconds
+Worst-case time taken by a thread to exit the CS is 59 microseconds
+
+Running experiments for Sudoku size: 70
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 70
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1410 microseconds.
+Average time taken by a thread to enter the CS is 113 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 325 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 2656 microseconds.
+Average time taken by a thread to enter the CS is 591 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 1604 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 3619 microseconds.
+Average time taken by a thread to enter the CS is 0 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 1 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1848 microseconds.
+Average time taken by a thread to enter the CS is 291 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 1117 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 2220 microseconds.
+Average time taken by a thread to enter the CS is 0 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 6 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 70
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2936 microseconds.
+Average time taken by a thread to enter the CS is 1655 microseconds
+Average time taken by a thread to exit the CS is 26 microseconds
+Worst-case time taken by a thread to enter the CS is 13245 microseconds
+Worst-case time taken by a thread to exit the CS is 212 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3366 microseconds.
+Average time taken by a thread to enter the CS is 2232 microseconds
+Average time taken by a thread to exit the CS is 21 microseconds
+Worst-case time taken by a thread to enter the CS is 17862 microseconds
+Worst-case time taken by a thread to exit the CS is 174 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2606 microseconds.
+Average time taken by a thread to enter the CS is 1465 microseconds
+Average time taken by a thread to exit the CS is 17 microseconds
+Worst-case time taken by a thread to enter the CS is 11724 microseconds
+Worst-case time taken by a thread to exit the CS is 140 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3513 microseconds.
+Average time taken by a thread to enter the CS is 2336 microseconds
+Average time taken by a thread to exit the CS is 16 microseconds
+Worst-case time taken by a thread to enter the CS is 18693 microseconds
+Worst-case time taken by a thread to exit the CS is 132 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3215 microseconds.
+Average time taken by a thread to enter the CS is 2142 microseconds
+Average time taken by a thread to exit the CS is 16 microseconds
+Worst-case time taken by a thread to enter the CS is 17136 microseconds
+Worst-case time taken by a thread to exit the CS is 131 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 70
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2777 microseconds.
+Average time taken by a thread to enter the CS is 1409.78 microseconds
+Average time taken by a thread to exit the CS is 61 microseconds
+Worst-case time taken by a thread to enter the CS is 1973 microseconds
+Worst-case time taken by a thread to exit the CS is 61 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2650 microseconds.
+Average time taken by a thread to enter the CS is 1203.33 microseconds
+Average time taken by a thread to exit the CS is 65 microseconds
+Worst-case time taken by a thread to enter the CS is 1664 microseconds
+Worst-case time taken by a thread to exit the CS is 65 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2674 microseconds.
+Average time taken by a thread to enter the CS is 1438.44 microseconds
+Average time taken by a thread to exit the CS is 59 microseconds
+Worst-case time taken by a thread to enter the CS is 1887 microseconds
+Worst-case time taken by a thread to exit the CS is 59 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2807 microseconds.
+Average time taken by a thread to enter the CS is 1249.22 microseconds
+Average time taken by a thread to exit the CS is 54 microseconds
+Worst-case time taken by a thread to enter the CS is 1721 microseconds
+Worst-case time taken by a thread to exit the CS is 54 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 70
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2067 microseconds.
+Average time taken by a thread to enter the CS is 862.667 microseconds
+Average time taken by a thread to exit the CS is 47 microseconds
+Worst-case time taken by a thread to enter the CS is 1353 microseconds
+Worst-case time taken by a thread to exit the CS is 47 microseconds
+
+Running experiments for Sudoku size: 80
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 80
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1017 microseconds.
+Average time taken by a thread to enter the CS is 25 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 59 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1566 microseconds.
+Average time taken by a thread to enter the CS is 202 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 571 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 2029 microseconds.
+Average time taken by a thread to enter the CS is 280 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 938 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1882 microseconds.
+Average time taken by a thread to enter the CS is 174 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 708 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1375 microseconds.
+Average time taken by a thread to enter the CS is 101 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 287 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 80
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2781 microseconds.
+Average time taken by a thread to enter the CS is 1632 microseconds
+Average time taken by a thread to exit the CS is 15 microseconds
+Worst-case time taken by a thread to enter the CS is 13058 microseconds
+Worst-case time taken by a thread to exit the CS is 125 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2958 microseconds.
+Average time taken by a thread to enter the CS is 1834 microseconds
+Average time taken by a thread to exit the CS is 16 microseconds
+Worst-case time taken by a thread to enter the CS is 14672 microseconds
+Worst-case time taken by a thread to exit the CS is 128 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3643 microseconds.
+Average time taken by a thread to enter the CS is 2551 microseconds
+Average time taken by a thread to exit the CS is 18 microseconds
+Worst-case time taken by a thread to enter the CS is 20414 microseconds
+Worst-case time taken by a thread to exit the CS is 151 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 4297 microseconds.
+Average time taken by a thread to enter the CS is 2413 microseconds
+Average time taken by a thread to exit the CS is 74 microseconds
+Worst-case time taken by a thread to enter the CS is 19304 microseconds
+Worst-case time taken by a thread to exit the CS is 596 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3478 microseconds.
+Average time taken by a thread to enter the CS is 2255 microseconds
+Average time taken by a thread to exit the CS is 22 microseconds
+Worst-case time taken by a thread to enter the CS is 18041 microseconds
+Worst-case time taken by a thread to exit the CS is 176 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 80
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2087 microseconds.
+Average time taken by a thread to enter the CS is 862.111 microseconds
+Average time taken by a thread to exit the CS is 46 microseconds
+Worst-case time taken by a thread to enter the CS is 1436 microseconds
+Worst-case time taken by a thread to exit the CS is 46 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3919 microseconds.
+Average time taken by a thread to enter the CS is 2491.33 microseconds
+Average time taken by a thread to exit the CS is 1085 microseconds
+Worst-case time taken by a thread to enter the CS is 3131 microseconds
+Worst-case time taken by a thread to exit the CS is 1085 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3021 microseconds.
+Average time taken by a thread to enter the CS is 1767.78 microseconds
+Average time taken by a thread to exit the CS is 132 microseconds
+Worst-case time taken by a thread to enter the CS is 2270 microseconds
+Worst-case time taken by a thread to exit the CS is 132 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2557 microseconds.
+Average time taken by a thread to enter the CS is 1474.78 microseconds
+Average time taken by a thread to exit the CS is 54 microseconds
+Worst-case time taken by a thread to enter the CS is 1806 microseconds
+Worst-case time taken by a thread to exit the CS is 54 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 80
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2714 microseconds.
+Average time taken by a thread to enter the CS is 1431 microseconds
+Average time taken by a thread to exit the CS is 57 microseconds
+Worst-case time taken by a thread to enter the CS is 1749 microseconds
+Worst-case time taken by a thread to exit the CS is 57 microseconds
+
+Running experiments for Sudoku size: 90
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 90
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1089 microseconds.
+Average time taken by a thread to enter the CS is 25 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 77 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1270 microseconds.
+Average time taken by a thread to enter the CS is 144 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 356 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1196 microseconds.
+Average time taken by a thread to enter the CS is 44 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 155 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1155 microseconds.
+Average time taken by a thread to enter the CS is 12 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 94 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1308 microseconds.
+Average time taken by a thread to enter the CS is 150 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 308 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 90
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 4712 microseconds.
+Average time taken by a thread to enter the CS is 2855 microseconds
+Average time taken by a thread to exit the CS is 28 microseconds
+Worst-case time taken by a thread to enter the CS is 22846 microseconds
+Worst-case time taken by a thread to exit the CS is 225 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3506 microseconds.
+Average time taken by a thread to enter the CS is 2091 microseconds
+Average time taken by a thread to exit the CS is 16 microseconds
+Worst-case time taken by a thread to enter the CS is 16730 microseconds
+Worst-case time taken by a thread to exit the CS is 134 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 2868 microseconds.
+Average time taken by a thread to enter the CS is 1570 microseconds
+Average time taken by a thread to exit the CS is 18 microseconds
+Worst-case time taken by a thread to enter the CS is 12562 microseconds
+Worst-case time taken by a thread to exit the CS is 149 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 4340 microseconds.
+Average time taken by a thread to enter the CS is 3200 microseconds
+Average time taken by a thread to exit the CS is 122 microseconds
+Worst-case time taken by a thread to enter the CS is 25606 microseconds
+Worst-case time taken by a thread to exit the CS is 983 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 3270 microseconds.
+Average time taken by a thread to enter the CS is 2083 microseconds
+Average time taken by a thread to exit the CS is 23 microseconds
+Worst-case time taken by a thread to enter the CS is 16668 microseconds
+Worst-case time taken by a thread to exit the CS is 185 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 90
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2681 microseconds.
+Average time taken by a thread to enter the CS is 1185 microseconds
+Average time taken by a thread to exit the CS is 54 microseconds
+Worst-case time taken by a thread to enter the CS is 1500 microseconds
+Worst-case time taken by a thread to exit the CS is 54 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2113 microseconds.
+Average time taken by a thread to enter the CS is 908.333 microseconds
+Average time taken by a thread to exit the CS is 49 microseconds
+Worst-case time taken by a thread to enter the CS is 1303 microseconds
+Worst-case time taken by a thread to exit the CS is 49 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2822 microseconds.
+Average time taken by a thread to enter the CS is 1420 microseconds
+Average time taken by a thread to exit the CS is 90 microseconds
+Worst-case time taken by a thread to enter the CS is 1923 microseconds
+Worst-case time taken by a thread to exit the CS is 90 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 4062 microseconds.
+Average time taken by a thread to enter the CS is 2355.11 microseconds
+Average time taken by a thread to exit the CS is 100 microseconds
+Worst-case time taken by a thread to enter the CS is 2949 microseconds
+Worst-case time taken by a thread to exit the CS is 100 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 90
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 5144 microseconds.
+Average time taken by a thread to enter the CS is 3208.56 microseconds
+Average time taken by a thread to exit the CS is 187 microseconds
+Worst-case time taken by a thread to enter the CS is 4235 microseconds
+Worst-case time taken by a thread to exit the CS is 187 microseconds
+
+Running experiments for Sudoku size: 100
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe for Sudoku size: 100
+Iteration 1 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 1 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 2986 microseconds.
+Average time taken by a thread to enter the CS is 839 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 1833 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 2 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 2 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 2369 microseconds.
+Average time taken by a thread to enter the CS is 255 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 776 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 3 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 3 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1801 microseconds.
+Average time taken by a thread to enter the CS is 114 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 334 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 4 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 4 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1730 microseconds.
+Average time taken by a thread to enter the CS is 128 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 386 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Iteration 5 for Assgn2SrcTAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 5 for Assgn2SrcTAS-co23btech11012.exe:
+The total time taken is 1705 microseconds.
+Average time taken by a thread to enter the CS is 288 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 711 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe for Sudoku size: 100
+Iteration 1 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 1 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 6868 microseconds.
+Average time taken by a thread to enter the CS is 4115 microseconds
+Average time taken by a thread to exit the CS is 39 microseconds
+Worst-case time taken by a thread to enter the CS is 32925 microseconds
+Worst-case time taken by a thread to exit the CS is 316 microseconds
+
+Iteration 2 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 2 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 5579 microseconds.
+Average time taken by a thread to enter the CS is 3995 microseconds
+Average time taken by a thread to exit the CS is 26 microseconds
+Worst-case time taken by a thread to enter the CS is 31964 microseconds
+Worst-case time taken by a thread to exit the CS is 215 microseconds
+
+Iteration 3 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 3 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 6412 microseconds.
+Average time taken by a thread to enter the CS is 4909 microseconds
+Average time taken by a thread to exit the CS is 23 microseconds
+Worst-case time taken by a thread to enter the CS is 39274 microseconds
+Worst-case time taken by a thread to exit the CS is 190 microseconds
+
+Iteration 4 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 4 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 4994 microseconds.
+Average time taken by a thread to enter the CS is 3158 microseconds
+Average time taken by a thread to exit the CS is 32 microseconds
+Worst-case time taken by a thread to enter the CS is 25269 microseconds
+Worst-case time taken by a thread to exit the CS is 258 microseconds
+
+Iteration 5 for Assgn2SrcCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 5 for Assgn2SrcCAS-co23btech11012.exe:
+The total time taken is 5795 microseconds.
+Average time taken by a thread to enter the CS is 3744 microseconds
+Average time taken by a thread to exit the CS is 36 microseconds
+Worst-case time taken by a thread to enter the CS is 29958 microseconds
+Worst-case time taken by a thread to exit the CS is 295 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe for Sudoku size: 100
+Iteration 1 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 1 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3148 microseconds.
+Average time taken by a thread to enter the CS is 1384.44 microseconds
+Average time taken by a thread to exit the CS is 82 microseconds
+Worst-case time taken by a thread to enter the CS is 1988 microseconds
+Worst-case time taken by a thread to exit the CS is 82 microseconds
+
+Iteration 2 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 2 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2855 microseconds.
+Average time taken by a thread to enter the CS is 1321.78 microseconds
+Average time taken by a thread to exit the CS is 67 microseconds
+Worst-case time taken by a thread to enter the CS is 1845 microseconds
+Worst-case time taken by a thread to exit the CS is 67 microseconds
+
+Iteration 3 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 3 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 2989 microseconds.
+Average time taken by a thread to enter the CS is 1544.56 microseconds
+Average time taken by a thread to exit the CS is 69 microseconds
+Worst-case time taken by a thread to enter the CS is 1895 microseconds
+Worst-case time taken by a thread to exit the CS is 69 microseconds
+
+Iteration 4 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 4 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 3608 microseconds.
+Average time taken by a thread to enter the CS is 1788.22 microseconds
+Average time taken by a thread to exit the CS is 110 microseconds
+Worst-case time taken by a thread to enter the CS is 2371 microseconds
+Worst-case time taken by a thread to exit the CS is 110 microseconds
+
+Iteration 5 for Assgn2SrcBCAS-co23btech11012.exe with Sudoku size 100
+Last 5 lines after iteration 5 for Assgn2SrcBCAS-co23btech11012.exe:
+The total time taken is 4283 microseconds.
+Average time taken by a thread to enter the CS is 2608.11 microseconds
+Average time taken by a thread to exit the CS is 253 microseconds
+Worst-case time taken by a thread to enter the CS is 3138 microseconds
+Worst-case time taken by a thread to exit the CS is 253 microseconds
+

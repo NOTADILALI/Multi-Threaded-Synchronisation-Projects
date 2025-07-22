@@ -1,0 +1,37 @@
+Thread 1 requests to enter CS1 at 335 microseconds
+Thread 1 enters CS1 at 565 microseconds
+Thread 1 grabs row 1 at 565 microseconds
+Thread 1 leaves CS1 at 637 microseconds
+
+ requests to enter CS1 at 565 microseconds
+Thread 3 requests to enter CS1 at 692 microseconds
+Thread 3 requests to enter CS1 at 692 miThread 4 requests to enter CS1 at 808 microseconds
+Thread 5 requests to enter CS1 at 926 microseconds
+Thread 7 requests to enter CS1 at 1039 microseconds
+Thread 8 requests to enter CS1 at 1204 microseconds
+Thread 9 requests to enter CS1 at 1360 microseconds
+Thread 14 requests to enter CS1 at 1471 microseconds
+Thread 10 requests to enter CS1 at 1575 microseconds
+Thread 6 requests to enter CS1 at 1701 microseconds
+Thread 11 requests to enter CS1 at 1868 microseconds
+Thread 12 requests to enter CS1 at 2064 microseconds
+Thread 21 requests to enter CS1 at 2130 microseconds
+Thread 22 requests to enter CS1 at 2215 microseconds
+Thread 23 requests to enter CS1 at 2343 microseconds
+Thread 15 requests to enter CS1 at 2512 microseconds
+Thread 16 requests to enter CS1 at 2637 microseconds
+Thread 17 requests to enter CS1 at 2800 microseconds
+Thread 19 requests to enter CS1 at 2972 microseconds
+Thread 20 requests to enter CS1 at 3091 microseconds
+Thread 13 requests to enter CS1 at 3287 microseconds
+Thread 24 requests to enter CS1 at 3511 microseconds
+Thread 25 requests to enter CS1 at 3622 microseconds
+Thread 26 requests to enter CS1 at 3769 microseconds
+Thread 27 requests to enter CS1 at 3892 microseconds
+Thread 18 requests to enter CS1 at 4105 microseconds
+Sudoku is Invalid.
+The total time taken is 4771 microseconds.
+Average time taken by a thread to enter the CS is 2 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 61 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds

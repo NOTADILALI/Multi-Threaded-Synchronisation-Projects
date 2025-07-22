@@ -1,0 +1,162 @@
+Experiment 3 - Time vs. Number of Threads
+=========================================
+Sudoku Size: 90, Task Increment: 20
+Thread Counts: 1 2 4 8 16 32
+Programs: Assgn2SrcTAS-co23btech11012.exe Assgn2SrcCAS-co23btech11012.exe Assgn2SrcBCAS-co23btech11012.exe
+
+Running experiments for Number of Threads: 1
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe with Threads: 1
+Last 5 lines from outputTAS.txt for Threads 1:
+The total time taken is 18285 microseconds.
+Average time taken by a thread to enter the CS is 103 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 2175 microseconds
+Worst-case time taken by a thread to exit the CS is 2 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe with Threads: 1
+Last 5 lines from outputCAS.txt for Threads 1:
+The total time taken is 8654 microseconds.
+Average time taken by a thread to enter the CS is 4549 microseconds
+Average time taken by a thread to exit the CS is 163 microseconds
+Worst-case time taken by a thread to enter the CS is 136479 microseconds
+Worst-case time taken by a thread to exit the CS is 4895 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe with Threads: 1
+Last 5 lines from outputBCAS.txt for Threads 1:
+The total time taken is 5203 microseconds.
+Average time taken by a thread to enter the CS is 3024.27 microseconds
+Average time taken by a thread to exit the CS is 91 microseconds
+Worst-case time taken by a thread to enter the CS is 3853 microseconds
+Worst-case time taken by a thread to exit the CS is 91 microseconds
+
+Running experiments for Number of Threads: 2
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe with Threads: 2
+Last 5 lines from outputTAS.txt for Threads 2:
+The total time taken is 8601 microseconds.
+Average time taken by a thread to enter the CS is 101 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 1032 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe with Threads: 2
+Last 5 lines from outputCAS.txt for Threads 2:
+The total time taken is 25150 microseconds.
+Average time taken by a thread to enter the CS is 9772 microseconds
+Average time taken by a thread to exit the CS is 230 microseconds
+Worst-case time taken by a thread to enter the CS is 820926 microseconds
+Worst-case time taken by a thread to exit the CS is 19369 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe with Threads: 2
+Last 5 lines from outputBCAS.txt for Threads 2:
+The total time taken is 142336 microseconds.
+Average time taken by a thread to enter the CS is 33332.7 microseconds
+Average time taken by a thread to exit the CS is 42094 microseconds
+Worst-case time taken by a thread to enter the CS is 132389 microseconds
+Worst-case time taken by a thread to exit the CS is 42094 microseconds
+
+Running experiments for Number of Threads: 4
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe with Threads: 4
+Last 5 lines from outputTAS.txt for Threads 4:
+The total time taken is 4220 microseconds.
+Average time taken by a thread to enter the CS is 43 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 373 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe with Threads: 4
+Last 5 lines from outputCAS.txt for Threads 4:
+The total time taken is 6210 microseconds.
+Average time taken by a thread to enter the CS is 3384 microseconds
+Average time taken by a thread to exit the CS is 167 microseconds
+Worst-case time taken by a thread to enter the CS is 57538 microseconds
+Worst-case time taken by a thread to exit the CS is 2843 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe with Threads: 4
+Last 5 lines from outputBCAS.txt for Threads 4:
+The total time taken is 216951 microseconds.
+Average time taken by a thread to enter the CS is 51448.9 microseconds
+Average time taken by a thread to exit the CS is 150 microseconds
+Worst-case time taken by a thread to enter the CS is 202780 microseconds
+Worst-case time taken by a thread to exit the CS is 150 microseconds
+
+Running experiments for Number of Threads: 8
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe with Threads: 8
+Last 5 lines from outputTAS.txt for Threads 8:
+The total time taken is 7051 microseconds.
+Average time taken by a thread to enter the CS is 3 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 70 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe with Threads: 8
+Last 5 lines from outputCAS.txt for Threads 8:
+The total time taken is 4180 microseconds.
+Average time taken by a thread to enter the CS is 2049 microseconds
+Average time taken by a thread to exit the CS is 19 microseconds
+Worst-case time taken by a thread to enter the CS is 30739 microseconds
+Worst-case time taken by a thread to exit the CS is 285 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe with Threads: 8
+Last 5 lines from outputBCAS.txt for Threads 8:
+The total time taken is 35538 microseconds.
+Average time taken by a thread to enter the CS is 25959.8 microseconds
+Average time taken by a thread to exit the CS is 113 microseconds
+Worst-case time taken by a thread to enter the CS is 34017 microseconds
+Worst-case time taken by a thread to exit the CS is 113 microseconds
+
+Running experiments for Number of Threads: 16
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe with Threads: 16
+Last 5 lines from outputTAS.txt for Threads 16:
+The total time taken is 1687 microseconds.
+Average time taken by a thread to enter the CS is 202 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 536 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe with Threads: 16
+Last 5 lines from outputCAS.txt for Threads 16:
+The total time taken is 14144 microseconds.
+Average time taken by a thread to enter the CS is 3934 microseconds
+Average time taken by a thread to exit the CS is 99 microseconds
+Worst-case time taken by a thread to enter the CS is 310797 microseconds
+Worst-case time taken by a thread to exit the CS is 7853 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe with Threads: 16
+Last 5 lines from outputBCAS.txt for Threads 16:
+The total time taken is 2068 microseconds.
+Average time taken by a thread to enter the CS is 1033.67 microseconds
+Average time taken by a thread to exit the CS is 51 microseconds
+Worst-case time taken by a thread to enter the CS is 1593 microseconds
+Worst-case time taken by a thread to exit the CS is 51 microseconds
+
+Running experiments for Number of Threads: 32
+------------------------------------------------------
+Running Assgn2SrcTAS-co23btech11012.exe with Threads: 32
+Last 5 lines from outputTAS.txt for Threads 32:
+The total time taken is 4771 microseconds.
+Average time taken by a thread to enter the CS is 2 microseconds
+Average time taken by a thread to exit the CS is 0 microseconds
+Worst-case time taken by a thread to enter the CS is 61 microseconds
+Worst-case time taken by a thread to exit the CS is 0 microseconds
+
+Running Assgn2SrcCAS-co23btech11012.exe with Threads: 32
+Last 5 lines from outputCAS.txt for Threads 32:
+The total time taken is 6410 microseconds.
+Average time taken by a thread to enter the CS is 2275 microseconds
+Average time taken by a thread to exit the CS is 18 microseconds
+Worst-case time taken by a thread to enter the CS is 77381 microseconds
+Worst-case time taken by a thread to exit the CS is 617 microseconds
+
+Running Assgn2SrcBCAS-co23btech11012.exe with Threads: 32
+Last 5 lines from outputBCAS.txt for Threads 32:
+The total time taken is 2575 microseconds.
+Average time taken by a thread to enter the CS is 1321.5 microseconds
+Average time taken by a thread to exit the CS is 296 microseconds
+Worst-case time taken by a thread to enter the CS is 1859 microseconds
+Worst-case time taken by a thread to exit the CS is 296 microseconds
+

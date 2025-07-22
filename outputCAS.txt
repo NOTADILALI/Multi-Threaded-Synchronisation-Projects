@@ -1,0 +1,110 @@
+Thread 1 requests to enter CS1 at 19.46hr
+Thread 1 enters CS1 at 19.46hr
+Thread 1 leaves CS1 at 19.46hr
+Thread 3 requests to enter CS1 at 19.46hr
+Thread 3 enters CS1 at 19.46hr
+Thread 3 leaves CS1 at 19.46hr
+Thread 3 completes checking of task 47 and finds it as invalid.
+Thread 6 requests to enter CS1 at 19.46hr
+Thread 6 enters CS1 at 19.46hr
+Thread 6 leaves CS1 at 19.46hr
+Thread 14 requests to enter CS1 at 19.46hr
+Thread 14 enters CS1 at 19.46hr
+Thread 14 leaves CS1 at 19.46hr
+Thread 11 requests to enter CS1 at 19.46hr
+Thread 11 enters CS1 at 19.46hr
+Thread 11 leaves CS1 at 19.46hr
+Thread 17 requests to enter CS1 at 19.46hr
+Thread 17 enters CS1 at 19.46hr
+Thread 17 leaves CS1 at 19.46hr
+Thread 5 requests to enter CS1 at 19.46hr
+Thread 5 enters CS1 at 19.46hr
+Thread 5 leaves CS1 at 19.46hr
+Thread 9 requests to enter CS1 at 19.46hr
+Thread 9 enters CS1 at 19.46hr
+Thread 9 leaves CS1 at 19.46hr
+Thread 30 requests to enter CS1 at 19.46hr
+Thread 30 enters CS1 at 19.46hr
+Thread 30 leaves CS1 at 19.46hr
+Thread 19 requests to enter CS1 at 19.46hr
+Thread 19 enters CS1 at 19.46hr
+Thread 19 leaves CS1 at 19.46hr
+Thread 33 requests to enter CS1 at 19.46hr
+Thread 33 enters CS1 at 19.46hr
+Thread 33 leaves CS1 at 19.46hr
+Thread 22 requests to enter CS1 at 19.46hr
+Thread 22 enters CS1 at 19.46hr
+Thread 22 leaves CS1 at 19.46hr
+Thread 2 requests to enter CS1 at 19.46hr
+Thread 2 enters CS1 at 19.46hr
+Thread 2 leaves CS1 at 19.46hr
+Thread 1 completes checking of task 1 and finds it as invalid.
+Thread 7 requests to enter CS1 at 19.46hr
+Thread 7 enters CS1 at 19.46hr
+Thread 7 leaves CS1 at 19.46hr
+Thread 4 requests to enter CS1 at 19.46hr
+Thread 4 enters CS1 at 19.46hr
+Thread 4 leaves CS1 at 19.46hr
+Thread 12 requests to enter CS1 at 19.46hr
+Thread 12 enters CS1 at 19.46hr
+Thread 12 leaves CS1 at 19.46hr
+Thread 15 requests to enter CS1 at 19.46hr
+Thread 15 enters CS1 at 19.46hr
+Thread 15 leaves CS1 at 19.46hr
+Thread 26 requests to enter CS1 at 19.46hr
+Thread 26 enters CS1 at 19.46hr
+Thread 26 leaves CS1 at 19.46hr
+Thread 20 requests to enter CS1 at 19.46hr
+Thread 20 enters CS1 at 19.46hr
+Thread 20 leaves CS1 at 19.46hr
+Thread 34 requests to enter CS1 at 19.46hr
+Thread 34 enters CS1 at 19.46hr
+Thread 34 leaves CS1 at 19.46hr
+Thread 24 requests to enter CS1 at 19.46hr
+Thread 24 enters CS1 at 19.46hr
+Thread 24 leaves CS1 at 19.46hr
+Thread 13 requests to enter CS1 at 19.46hr
+Thread 13 enters CS1 at 19.46hr
+Thread 13 leaves CS1 at 19.46hr
+Thread 25 requests to enter CS1 at 19.46hr
+Thread 25 enters CS1 at 19.46hr
+Thread 25 leaves CS1 at 19.46hr
+Thread 10 requests to enter CS1 at 19.46hr
+Thread 10 enters CS1 at 19.46hr
+Thread 10 leaves CS1 at 19.46hr
+Thread 16 requests to enter CS1 at 19.46hr
+Thread 16 enters CS1 at 19.46hr
+Thread 16 leaves CS1 at 19.46hr
+Thread 31 requests to enter CS1 at 19.46hr
+Thread 31 enters CS1 at 19.46hr
+Thread 31 leaves CS1 at 19.46hr
+Thread 32 requests to enter CS1 at 19.46hr
+Thread 32 enters CS1 at 19.46hr
+Thread 32 leaves CS1 at 19.46hr
+Thread 23 requests to enter CS1 at 19.46hr
+Thread 23 enters CS1 at 19.46hr
+Thread 23 leaves CS1 at 19.46hr
+Thread 28 requests to enter CS1 at 19.46hr
+Thread 28 enters CS1 at 19.46hr
+Thread 28 leaves CS1 at 19.46hr
+Thread 18 requests to enter CS1 at 19.46hr
+Thread 18 enters CS1 at 19.46hr
+Thread 18 leaves CS1 at 19.46hr
+Thread 8 requests to enter CS1 at 19.46hr
+Thread 8 enters CS1 at 19.46hr
+Thread 8 leaves CS1 at 19.46hr
+Thread 27 requests to enter CS1 at 19.46hr
+Thread 27 enters CS1 at 19.46hr
+Thread 27 leaves CS1 at 19.46hr
+Thread 29 requests to enter CS1 at 19.46hr
+Thread 29 enters CS1 at 19.46hr
+Thread 29 leaves CS1 at 19.46hr
+Thread 21 requests to enter CS1 at 19.46hr
+Thread 21 enters CS1 at 19.46hr
+Thread 21 leaves CS1 at 19.46hr
+Sudoku is invalid.
+The total time taken is 6410 microseconds.
+Average time taken by a thread to enter the CS is 2275 microseconds
+Average time taken by a thread to exit the CS is 18 microseconds
+Worst-case time taken by a thread to enter the CS is 77381 microseconds
+Worst-case time taken by a thread to exit the CS is 617 microseconds

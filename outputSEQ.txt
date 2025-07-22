@@ -1,0 +1,6 @@
+Sequential execution begins at 0 microseconds
+Checking row 1 at 237 microseconds
+Completed checking row 1 at 425 microseconds and it is invalid.
+Sudoku is invalid.
+Sudoku is valid.
+The total time taken is 601 microseconds.
